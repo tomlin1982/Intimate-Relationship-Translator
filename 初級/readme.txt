@@ -1,3 +1,8 @@
-�Ϊ�Ū��y�k�n�F���ؼ������Z�x����, ���L�ڪ��ت����O�n�Ϊ춥�y�k�g, �ӬO�ǥѳo�Ӿ��|�m�ߪ춥�y�k.
+用初級的語法要達成目標應該蠻困難的, 不過我的目的不是要用初階語法寫, 而是藉由這個機會練習初階語法.
 
-�ڥ��g�@�ӫ�²�檺�Ӱ_�Y, ����A�C�C�ﵽ
+我先寫一個很簡單的來起頭, 之後再慢慢改善
+
+主程式為main.py
+需求
+pip install PyQt5
+pip install snownlp

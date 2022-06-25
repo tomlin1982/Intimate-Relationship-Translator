@@ -6,3 +6,13 @@
 需求
 pip install PyQt5
 pip install snownlp
+
+myjieba_posseg.py 為簡單的分詞
+測試的文件
+分別為
+love.txt
+angry.txt
+
+
+需求
+pip install jieba
